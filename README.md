@@ -67,3 +67,5 @@ Do not share passwords, and always backup your original files.
 Incorrect passwords will result in decryption failure or data loss.
 
 ###   OUTPUT   ###
+
+![Image](https://github.com/user-attachments/assets/c71107a7-2f28-4759-9e26-31eca41a0eba)
